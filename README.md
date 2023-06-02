@@ -81,6 +81,8 @@
 
 ## 주요 기능
 
+<br/>
+
 기존 포커 카드 생성 코드
 
 ```
@@ -132,6 +134,8 @@ void shuffle(struct card *cards, int num){
     printf("\n");
 }
 ```
+
+<br/>
 
 카드 전달 코드
 
